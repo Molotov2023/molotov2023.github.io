@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "시작하는 글 Introduction"
+title: "Introduction"
 author: "Seoul Express"
 tags: introduction, intro, seoul express 
+sticky: true
 ---
 
 안녕하세요! 본 사이트는 [서울익스프레스](http://seoulexpress.kr/)의 워크숍 <AI 조력 가능성 실험 I - 몰로토프 칵테일(Molotov cocktail)>에서 수행한 과정을 담고 있습니다. 
