@@ -2,13 +2,15 @@
 layout: post
 title: "시작하는 글 Introduction"
 author: "Seoul Express"
-tags: Tale
+tags: introduction, intro, seoul express 
 ---
 
 안녕하세요! 본 사이트는 [서울익스프레스](http://seoulexpress.kr/)의 워크숍 <AI 조력 가능성 실험 I - 몰로토프 칵테일(Molotov cocktail)>에서 수행한 과정을 담고 있습니다. 
 인터넷 검색뿐만 아니라 ChatGPT와 같은 AI 언어 모델을 기반으로 하는 생성형 AI 서비스, 프롬프트 기반의 이미지 생성 AI 도구 등을 활용하여 몰로토프 칵테일(Molotov cocktail, 화염병)에 관한 정보를 참여자 각각의 관심사에 따라 추적하여 공유하고 있습니다. 탐색의 과정에서 발생되는 AI 도구에 관한 모니터링과, 활용의 방식을 살펴볼 수 있습니다. 
 
 <hr> 
+
+## <<AI 조력 가능성 실험 I - 몰로토프 칵테일>
 
 불법과 테러로 규정되는 무기이자 공권력에 대항하는 상징적인 물건인 몰로토프 칵테일(Molotov cocktail, 이하 화염병) 제작 기술을 AI의 도움으로 매뉴얼화 한다. 
 
@@ -21,5 +23,4 @@ tags: Tale
 
 전시장에는 사전 워크숍에서 도출된 다양한 매뉴얼이 놓이는 동시에 매뉴얼을 바탕으로 화염병 재료가 조립되지 않은 채로 전시된다. 한 켠에 마련된 컴퓨터를 통해 관객은 화염병에 관해 추가하고픈 정보를 검색하고 기존의 매뉴얼을 확장해 나간다. 
 
-
-[Cat Ipsum](http://www.catipsum.com/)
+본 프로젝트는 <해킹 매뉴얼(Hacking Manual)> ([컨버터](https://www.instagram.com/converter_project/) 기획)에서 워크숍 및 전시의 형태로 진행됩니다. 워크숍은 2023년 7월 9일에 사전 신청으로 모집된 참여자 10분과 함께 2시간 동안 몰로토프 칵테일에 관한 공동의 매뉴얼을 만드는 방식으로, 전시는 2023년 8월 15일부터 20일까지 TINC(This is not a church)에서 워크숍의 과정을 공유하는 방식으로 열립니다.  
