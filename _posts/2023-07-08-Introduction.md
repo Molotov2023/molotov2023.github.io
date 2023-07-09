@@ -14,6 +14,8 @@ hidden: true
 
 추후 새로운 문서를 덧붙이거나, 본 프로젝트에 참여하고자 하는 경우 아래의 깃헙에서 가능하다.  
 [https://github.com/Molotov2023/molotov2023.github.io](https://github.com/Molotov2023/molotov2023.github.io)
+<br>
+<br>
 
 ## 공동의 매뉴얼 
 
@@ -54,13 +56,16 @@ hidden: true
 도구를 활용하는 과정에서 발생하는 오류, 경고, 수정, 우회의 방법 등을 기록한다. 
 출처에 관해 정확히 제시한다. (하이퍼링크 등)
 
-**예시** 
+### 예시 
 
 ![예시 이미지](https://molotov2023.github.io/images/ex.png "This image was generated with the assistance of Midjourney.")
 _TThis image was generated with the assistance of Midjourney._
 
 사용된 prompt:
 a molotov cocktail as a bottle, retrostyle, doodle, people gathering as a circle in the background
-
+<br>
+<br>
 
 ### 마크다운(Markdown) 문서 작성법 
+
+[마크다운 문서 작성하기](https://molotov2023.github.io/2023-07-08/example-content) 에서 참고
