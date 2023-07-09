@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Example Content"
-author: "Chester"
-tags: Example
-excerpt_separator: <!--more-->
+title: "마크다운 문서 작성하기"
+author: "Seoul Express"
+tags: markdown
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis.<!--more--> Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.
+마크다운 문서 작성법은 아래 태그와 그 활용법에 대해 설명하고 있으니 참고 바랍니다. 
 
-# Headers
+# Headers (제목용 글자 크기 조정)
 {% highlight markdown %}
 # H1
 ## H2
@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt orna
 ##### H5
 ###### H6
 
-# Text formatting
+# Text formatting (글자 수식)
 {% highlight markdown %}
 - **Bold**
 - _Italics_
@@ -46,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt orna
 - Abbreviation: <abbr title="HyperText Markup Language">HTML</abbr>
 - Citation: <cite>&mdash; Chester How</cite>
 
-# Lists
+# Lists (리스트)
 {% highlight markdown %}
 1. Ordered list item 1
 2. Ordered list item 2
@@ -65,14 +65,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt orna
 * Unordered list item 2
 * Unordered list item 3
 
-# Links
+# Links (하이퍼링크 걸기)
 {% highlight markdown %}
 Check out tale on [GitHub](https://github.com/chesterhow/tale).
 {% endhighlight %}
 
 Check out tale on [GitHub](https://github.com/chesterhow/tale).
 
-# Images
+# Images (이미지 넣기)
 {% highlight markdown %}
 ![Placeholder image](https://placehold.it/800x400 "Placeholder image")
 
@@ -85,7 +85,7 @@ _This is an image with a caption_
 ![Image with caption](https://placehold.it/700x400 "Image with caption")
 _This is an image with a caption_
 
-# Code and Syntax Highlighting
+# Code and Syntax Highlighting (코드 넣기)
 Use back-ticks for `inline code`. Multi-line code snippets are supported too through Pygments.
 
 {% highlight js %}
@@ -116,7 +116,7 @@ alert(s);
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-# Horizontal Rule & Line Break
+# Horizontal Rule & Line Break (줄바꿈 및 가로선 넣기)
 {% highlight markdown %}
 Use `<hr>` for horizontal rules
 
