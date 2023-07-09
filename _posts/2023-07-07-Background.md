@@ -66,10 +66,12 @@ Protesters throw petrol bombs at police in Greece [https://youtube.com/shorts/ku
 <br>
 
 ## 검색엔진 
-라리사 열차 충돌 사고_나무위키 [https://namu.wiki/w/%EB%9D%BC%EB%A6%AC%EC%82%AC%20%EC%97%B4%EC%B0%A8%20%EC%B6%A9%EB%8F%8C%20%EC%82%AC%EA%B3%A0](https://namu.wiki/w/%EB%9D%BC%EB%A6%AC%EC%82%AC%20%EC%97%B4%EC%B0%A8%20%EC%B6%A9%EB%8F%8C%20%EC%82%AC%EA%B3%A0)
+라리사 열차 충돌 사고_나무위키 
+[https://namu.wiki/w/%EB%9D%BC%EB%A6%AC%EC%82%AC%20%EC%97%B4%EC%B0%A8%20%EC%B6%A9%EB%8F%8C%20%EC%82%AC%EA%B3%A0](https://namu.wiki/w/%EB%9D%BC%EB%A6%AC%EC%82%AC%20%EC%97%B4%EC%B0%A8%20%EC%B6%A9%EB%8F%8C%20%EC%82%AC%EA%B3%A0)
 <br>
 
-시어도어 카진스키 [https://namu.wiki/w/%EC%8B%9C%EC%96%B4%EB%8F%84%EC%96%B4%20%EC%B9%B4%EC%A7%84%EC%8A%A4%ED%82%A4](https://namu.wiki/w/%EC%8B%9C%EC%96%B4%EB%8F%84%EC%96%B4%20%EC%B9%B4%EC%A7%84%EC%8A%A4%ED%82%A4)
+시어도어 카진스키 
+[https://namu.wiki/w/%EC%8B%9C%EC%96%B4%EB%8F%84%EC%96%B4%20%EC%B9%B4%EC%A7%84%EC%8A%A4%ED%82%A4](https://namu.wiki/w/%EC%8B%9C%EC%96%B4%EB%8F%84%EC%96%B4%20%EC%B9%B4%EC%A7%84%EC%8A%A4%ED%82%A4)
 <br>
 <br>
 
