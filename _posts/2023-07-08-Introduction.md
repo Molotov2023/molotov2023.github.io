@@ -1,27 +1,52 @@
 ---
 layout: post
-title: "Introduction"
+title: "공동의 매뉴얼 구축하기"
 author: "Seoul Express"
-tags: introduction, intro, seoul express 
+tags: manual
+excerpt_separator: <!--more-->
 sticky: true
+hidden: true
 ---
 
-안녕하세요! 본 사이트는 [서울익스프레스](http://seoulexpress.kr/)의 워크숍 <AI 조력 가능성 실험 I - 몰로토프 칵테일(Molotov cocktail)>에서 수행한 과정을 담고 있습니다. 
-인터넷 검색뿐만 아니라 ChatGPT와 같은 AI 언어 모델을 기반으로 하는 생성형 AI 서비스, 프롬프트 기반의 이미지 생성 AI 도구 등을 활용하여 몰로토프 칵테일(Molotov cocktail, 화염병)에 관한 정보를 참여자 각각의 관심사에 따라 추적하여 공유하고 있습니다. 탐색의 과정에서 발생되는 AI 도구에 관한 모니터링과, 활용의 방식을 살펴볼 수 있습니다. 
+## 시작하기  
 
-<hr> 
+불법과 테러로 규정되는 무기이자 공권력에 대항하는 상징적인 물건인 몰로토프 칵테일(Molotov cocktail, 이하 화염병)의 매뉴얼을 AI의 도움으로 만든다. 
+워크숍 참여자는 각자의 미션(MISSON)을 수립하여, 한정된 시간 동안 도출한 정보와 탐색 과정을 기록한다. 마크다운 문서로 작성한 뒤 본 사이트에 git으로 업로드한다. 
 
-## AI 조력 가능성 실험 I - 몰로토프 칵테일
+추후 새로운 문서를 덧붙이거나, 본 프로젝트에 참여하고자 하는 경우 아래의 깃헙에서 가능하다.  
+[https://github.com/Molotov2023/molotov2023.github.io](https://github.com/Molotov2023/molotov2023.github.io)
 
-불법과 테러로 규정되는 무기이자 공권력에 대항하는 상징적인 물건인 몰로토프 칵테일(Molotov cocktail, 이하 화염병) 제작 기술을 AI의 도움으로 매뉴얼화 한다. 
+## 공동의 매뉴얼 
 
-자본주의에 대항하는 화염병 
-페미니스트를 위한 화염병 
-기후위기를 외치는 화염병 
-테크노크라트에 맞서는 화염병…
+### STEP 1 참여자는'몰로토프 칵테일(이하 MC)'에 관한 각자의 미션(MISSION)을 정한다.(아래 예시)
+- MC 제조법
+- MC의 역사
+- MC의 용례
+- MC의 현지화(localization)
+- MC 관련 어휘 리스트
+- MC 관련 법률
+- MC가 등장하는 기사, 소설, 시 등 텍스트 발췌
+- MC 관련 이미지 모음
+- MC 커스터마이징(DIY 매뉴얼, 레서피, 디자인 등)  
 
-참여자는 저마다의 관심사와 정치적 입장을 가지고 그 주제에 부합하는 화염병 제작 매뉴얼을 만든다. 그 과정에서 관련 법과 응용 사례, 과학적 지식, 오픈 소스로서 확장 가능성까지 여러 요소를 고민하게 된다. 화염병이라는 인류 역사상 다소 복잡한 맥락을 지닌 물건이 AI를 통해 어떻게 재구성되는지, 그리고 그 속에서 상충되는 사회의 여러 가치의 문제를 발견하고 함께 논의한다. 프롬프트 기반의 이미지 생성 AI로 병의 형태와 병에 붙이게 될 스티커까지도 제작해보며 매뉴얼을 구체화한다.   
+한정된 시간 내에 유의미한 발견과 탐색이 가능한지 고려한다. 
+문서화가 가능한 정도의 구체화된 주제가 필요하다. 
+사실 기반의 정보를 스크래핑(scraping)하는 것뿐만 아니라 창작물, 사변적 컨텐츠도 가능하다. 
+기존에 올려진 정보, 주제와의 유사성, 차별성, 관계성을 고민한다. 
 
-전시장에는 사전 워크숍에서 도출된 다양한 매뉴얼이 놓이는 동시에 매뉴얼을 바탕으로 화염병 재료가 조립되지 않은 채로 전시된다. 한 켠에 마련된 컴퓨터를 통해 관객은 화염병에 관해 추가하고픈 정보를 검색하고 기존의 매뉴얼을 확장해 나간다. 
 
-본 프로젝트는 <해킹 매뉴얼(Hacking Manual)> ([컨버터](https://www.instagram.com/converter_project/) 기획)에서 워크숍 및 전시의 형태로 진행됩니다. 워크숍은 2023년 7월 9일에 사전 신청으로 모집된 참여자 10분과 함께 2시간 동안 몰로토프 칵테일에 관한 공동의 매뉴얼을 만드는 방식으로, 전시는 2023년 8월 15일부터 20일까지 TINC(This is not a church)에서 워크숍의 과정을 공유하는 방식으로 열립니다.  
+### STEP 2 참여자는 미션을 수행하기 위하여 인터넷, AI 서비스, 도구 등을 적극적으로 활용한다. (아래 예시)
+
+**LLM 기반의 대화형 AI 서비스**
+- [ChatGPT](https://chat.openai.com/) - 한국어/영어 지원 
+- AI 어시스턴트 [뤼튼] (https://wrtn.ai/) - 한국어/영어 지원
+- 구글 [Bard](https://bard.google.com/) - 한국어/영어 지원 
+- [Open Assistant](https://open-assistant.io/ ) - 영어만 지원 
+
+**인터넷 검색 (Google, Bing, Naver…)**
+
+**이미지 생성형 AI 서비스** 
+- [Midjourney](www.midjourney.com) - Discord 서버에서 운영 / 유료 ([discord.gg/midjourney](discord.gg/midjourney))
+- OpenAI [DALL-E 2](https://labs.openai.com/) - 웹기반으로 사용 / 유료 
+- [Stable Diffusion](https://stablediffusionweb.com/) - 플러그인 설치 버전 / 웹기반 무료
+- MS [Image Creator](https://www.bing.com/create ) - Microsoft 가입하면 무료 
