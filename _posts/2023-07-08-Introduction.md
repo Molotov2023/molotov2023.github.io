@@ -56,7 +56,7 @@ hidden: true
 
 **예시** 
 
-![예시 이미지](https://placehold.it/700x400 "This image was generated with the assistance of Midjourney.")
+![예시 이미지](https://molotov2023.github.io/images/ex.png "This image was generated with the assistance of Midjourney.")
 _TThis image was generated with the assistance of Midjourney._
 
 사용된 prompt:
