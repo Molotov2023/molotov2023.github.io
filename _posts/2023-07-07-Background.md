@@ -8,72 +8,76 @@ tags: background
 
 ## 기사  
 
-1. 몰로토프 칵테일_중앙일보 [https://www.joongang.co.kr/article/25051942#home](https://www.joongang.co.kr/article/25051942#home)
+몰로토프 칵테일_중앙일보 [https://www.joongang.co.kr/article/25051942#home](https://www.joongang.co.kr/article/25051942#home)
 <br>
 
-2. What's a molotov cocktail and why Ukraine is using them against Russian forces? [https://www.marca.com/en/lifestyle/world-news/2022/03/07/62264568e2704e8b058b4604.html](https://www.marca.com/en/lifestyle/world-news/2022/03/07/62264568e2704e8b058b4604.html)
+What's a molotov cocktail and why Ukraine is using them against Russian forces? [https://www.marca.com/en/lifestyle/world-news/2022/03/07/62264568e2704e8b058b4604.html](https://www.marca.com/en/lifestyle/world-news/2022/03/07/62264568e2704e8b058b4604.html)
 <br>
 
-3. Clashes break out in Greece as thousands protest against train tragedy [https://www.france24.com/en/europe/20230316-clashes-break-out-in-greece-as-thousands-protest-against-train-tragedy](https://www.france24.com/en/europe/20230316-clashes-break-out-in-greece-as-thousands-protest-against-train-tragedy)
+Clashes break out in Greece as thousands protest against train tragedy [https://www.france24.com/en/europe/20230316-clashes-break-out-in-greece-as-thousands-protest-against-train-tragedy](https://www.france24.com/en/europe/20230316-clashes-break-out-in-greece-as-thousands-protest-against-train-tragedy)
 <br>
 
-4. Tens of thousands march in Greece in angry train crash protest [https://www.reuters.com/world/europe/greek-workers-join-walkout-over-deadly-train-crash-call-protests-2023-03-07/](https://www.reuters.com/world/europe/greek-workers-join-walkout-over-deadly-train-crash-call-protests-2023-03-07/)
+Tens of thousands march in Greece in angry train crash protest [https://www.reuters.com/world/europe/greek-workers-join-walkout-over-deadly-train-crash-call-protests-2023-03-07/](https://www.reuters.com/world/europe/greek-workers-join-walkout-over-deadly-train-crash-call-protests-2023-03-07/)
 <br>
 
-5. 신자유주의 긴축재정이 철도 참사를 초래하다 [https://wspaper.org/article/29136](https://wspaper.org/article/29136)
+신자유주의 긴축재정이 철도 참사를 초래하다 [https://wspaper.org/article/29136](https://wspaper.org/article/29136)
 <br>
 
-6. 그리스 역대 최악 열차 사고로 최소 43명 사망, 원인은… [https://www.pressian.com/pages/articles/2023030217260480727](https://www.pressian.com/pages/articles/2023030217260480727)
+그리스 역대 최악 열차 사고로 최소 43명 사망, 원인은… [https://www.pressian.com/pages/articles/2023030217260480727](https://www.pressian.com/pages/articles/2023030217260480727)
 <br>
 
-7. 그리스는 왜 파산했나? [https://www.hani.co.kr/arti/international/globaleconomy/678549.html](https://www.hani.co.kr/arti/international/globaleconomy/678549.html)
+그리스는 왜 파산했나? [https://www.hani.co.kr/arti/international/globaleconomy/678549.html](https://www.hani.co.kr/arti/international/globaleconomy/678549.html)
 <br>
 
-8. Could a Chatbot Teach You How to Build a Dirty Bomb? [https://outrider.org/nuclear-weapons/articles/could-chatbot-teach-you-how-build-dirty-bomb](https://outrider.org/nuclear-weapons/articles/could-chatbot-teach-you-how-build-dirty-bomb)
+Could a Chatbot Teach You How to Build a Dirty Bomb? [https://outrider.org/nuclear-weapons/articles/could-chatbot-teach-you-how-build-dirty-bomb](https://outrider.org/nuclear-weapons/articles/could-chatbot-teach-you-how-build-dirty-bomb)
+<br>
 <br>
 
 ## 영상 
-1. Ukrainian civilians coached how to use Molotov cocktails for urban warfare in Lviv [https://youtu.be/g7RQ3CeQ-no](https://youtu.be/g7RQ3CeQ-no)
+Ukrainian civilians coached how to use Molotov cocktails for urban warfare in Lviv [https://youtu.be/g7RQ3CeQ-no](https://youtu.be/g7RQ3CeQ-no)
 <br>
 
-2. Molotovs Cocktails In Ukraine [https://youtu.be/oaNMD_sbaPk](https://youtu.be/oaNMD_sbaPk)
+Molotovs Cocktails In Ukraine [https://youtu.be/oaNMD_sbaPk](https://youtu.be/oaNMD_sbaPk)
 <br>
 
-3. Ukrainians Mix Molotov Cocktails to Defend Against Russia [https://youtu.be/LHUxnue6Q04](https://youtu.be/LHUxnue6Q04)
+Ukrainians Mix Molotov Cocktails to Defend Against Russia [https://youtu.be/LHUxnue6Q04](https://youtu.be/LHUxnue6Q04)
 <br>
 
-4. Police Vehicle Plows Through Protests in Greece [https://youtu.be/4ndnwDJ9DSA](https://youtu.be/4ndnwDJ9DSA)
+Police Vehicle Plows Through Protests in Greece [https://youtu.be/4ndnwDJ9DSA](https://youtu.be/4ndnwDJ9DSA)
 <br>
 
-5. Protesters throw petrol bombs at police in Greece [https://youtube.com/shorts/ku5O1mf0Mu4?feature=share](https://youtube.com/shorts/ku5O1mf0Mu4?feature=share)
+Protesters throw petrol bombs at police in Greece [https://youtube.com/shorts/ku5O1mf0Mu4?feature=share](https://youtube.com/shorts/ku5O1mf0Mu4?feature=share)
+<br>
 <br>
 
 ## 이미지 
 ![molotov](https://molotov2023.github.io/images/b_1.png)
 <br>
 
-![Greece](https://molotov2023.github.io/images/b_2.png)
+![Greece](https://molotov2023.github.io/images/b_2.jpg)
 <br>
 
-![molotov](https://molotov2023.github.io/images/b_3.png)
+![molotov](https://molotov2023.github.io/images/b_3.jpg)
 <br>
 
-![유나바머](https://molotov2023.github.io/images/b_4.png)
+![유나바머](https://molotov2023.github.io/images/b_4.jpg)
+<br>
 <br>
 
 ## 검색엔진 
-1. 라리사 열차 충돌 사고_나무위키 [https://namu.wiki/w/%EB%9D%BC%EB%A6%AC%EC%82%AC%20%EC%97%B4%EC%B0%A8%20%EC%B6%A9%EB%8F%8C%20%EC%82%AC%EA%B3%A0](https://namu.wiki/w/%EB%9D%BC%EB%A6%AC%EC%82%AC%20%EC%97%B4%EC%B0%A8%20%EC%B6%A9%EB%8F%8C%20%EC%82%AC%EA%B3%A0)
+라리사 열차 충돌 사고_나무위키 [https://namu.wiki/w/%EB%9D%BC%EB%A6%AC%EC%82%AC%20%EC%97%B4%EC%B0%A8%20%EC%B6%A9%EB%8F%8C%20%EC%82%AC%EA%B3%A0](https://namu.wiki/w/%EB%9D%BC%EB%A6%AC%EC%82%AC%20%EC%97%B4%EC%B0%A8%20%EC%B6%A9%EB%8F%8C%20%EC%82%AC%EA%B3%A0)
 <br>
 
-2. 시어도어 카진스키 [https://namu.wiki/w/%EC%8B%9C%EC%96%B4%EB%8F%84%EC%96%B4%20%EC%B9%B4%EC%A7%84%EC%8A%A4%ED%82%A4](https://namu.wiki/w/%EC%8B%9C%EC%96%B4%EB%8F%84%EC%96%B4%20%EC%B9%B4%EC%A7%84%EC%8A%A4%ED%82%A4)
+시어도어 카진스키 [https://namu.wiki/w/%EC%8B%9C%EC%96%B4%EB%8F%84%EC%96%B4%20%EC%B9%B4%EC%A7%84%EC%8A%A4%ED%82%A4](https://namu.wiki/w/%EC%8B%9C%EC%96%B4%EB%8F%84%EC%96%B4%20%EC%B9%B4%EC%A7%84%EC%8A%A4%ED%82%A4)
+<br>
 <br>
 
 ## 쇼핑몰 
 
-1. Ted Kaczynski T-Shirt I Came To Drop Bombs Unabomber [https://itthemovie.com/product/ted-kaczynski-t-shirt-i-came-to-drop-bombs-unabomber/](https://itthemovie.com/product/ted-kaczynski-t-shirt-i-came-to-drop-bombs-unabomber/)
+Ted Kaczynski T-Shirt I Came To Drop Bombs Unabomber [https://itthemovie.com/product/ted-kaczynski-t-shirt-i-came-to-drop-bombs-unabomber/](https://itthemovie.com/product/ted-kaczynski-t-shirt-i-came-to-drop-bombs-unabomber/)
 <br>
 
-2. Uncle Ted Kaczynski Unabomber the industrial revolution and its consequences Holographic Die-cut Stickers [https://mostlypeaceful.com/uncle-ted-kaczynski-unabomber-the-industrial-revolution-and-its-consequences-holographic-die-cut-stickers/](https://mostlypeaceful.com/uncle-ted-kaczynski-unabomber-the-industrial-revolution-and-its-consequences-holographic-die-cut-stickers/)
+Uncle Ted Kaczynski Unabomber the industrial revolution and its consequences Holographic Die-cut Stickers [https://mostlypeaceful.com/uncle-ted-kaczynski-unabomber-the-industrial-revolution-and-its-consequences-holographic-die-cut-stickers/](https://mostlypeaceful.com/uncle-ted-kaczynski-unabomber-the-industrial-revolution-and-its-consequences-holographic-die-cut-stickers/)
 <br>
 
 The Industrial Revolution and its consequences have been a disaster for the human race. They have greatly increased the life-expectancy of those of us who live in “advanced” countries, but they have destabilized society, have made life unfulfilling, have subjected human beings to indignities, have led to widespread psychological suffering (in the Third World to physical suffering as well) and have inflicted severe damage on the natural world. The continued development of technology will worsen the situation. It will certainly subject human being to greater indignities and inflict greater damage on the natural world, it will probably lead to greater social disruption and psychological suffering, and it may lead to increased physical suffering even in “advanced” countries.
@@ -83,4 +87,4 @@ The Industrial Revolution and its consequences have been a disaster for the huma
 
 ## 문서 
 
-1. 더티 밤 (방사능 물질 함유 폭탄) 재난 대응 행동강령 Kor-DIRTY BOMB DISASTER RESPONSE TEMPLATE [https://sustainable.dc.gov/sites/default/files/dc/sites/apia/publication/attachments/Kor-DIRTY%20BOMB%20DISASTER%20RESPONSE%20TEMPLATE.pdf](https://sustainable.dc.gov/sites/default/files/dc/sites/apia/publication/attachments/Kor-DIRTY%20BOMB%20DISASTER%20RESPONSE%20TEMPLATE.pdf)
+더티 밤 (방사능 물질 함유 폭탄) 재난 대응 행동강령 Kor-DIRTY BOMB DISASTER RESPONSE TEMPLATE [https://sustainable.dc.gov/sites/default/files/dc/sites/apia/publication/attachments/Kor-DIRTY%20BOMB%20DISASTER%20RESPONSE%20TEMPLATE.pdf](https://sustainable.dc.gov/sites/default/files/dc/sites/apia/publication/attachments/Kor-DIRTY%20BOMB%20DISASTER%20RESPONSE%20TEMPLATE.pdf)
