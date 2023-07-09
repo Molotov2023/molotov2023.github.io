@@ -3,7 +3,6 @@ layout: post
 title: "공동의 매뉴얼 구축하기"
 author: "Seoul Express"
 tags: manual
-excerpt_separator: <!--more-->
 sticky: true
 hidden: true
 ---
