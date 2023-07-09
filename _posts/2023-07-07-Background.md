@@ -23,7 +23,8 @@ Tens of thousands march in Greece in angry train crash protest [https://www.reut
 신자유주의 긴축재정이 철도 참사를 초래하다 [https://wspaper.org/article/29136](https://wspaper.org/article/29136)
 <br>
 
-그리스 역대 최악 열차 사고로 최소 43명 사망, 원인은… [https://www.pressian.com/pages/articles/2023030217260480727](https://www.pressian.com/pages/articles/2023030217260480727)
+그리스 역대 최악 열차 사고로 최소 43명 사망, 원인은… 
+[https://www.pressian.com/pages/articles/2023030217260480727](https://www.pressian.com/pages/articles/2023030217260480727)
 <br>
 
 그리스는 왜 파산했나? [https://www.hani.co.kr/arti/international/globaleconomy/678549.html](https://www.hani.co.kr/arti/international/globaleconomy/678549.html)
