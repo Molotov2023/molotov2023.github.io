@@ -1,132 +1,18 @@
-# Tale
 
-[![Gem Version](https://badge.fury.io/rb/tale.svg)](https://badge.fury.io/rb/tale)
+본 사이트는 [서울익스프레스](http://seoulexpress.kr/)의 워크숍 <AI 조력 가능성 실험 I - 몰로토프 칵테일(Molotov cocktail)>에서 수행한 과정을 담고 있습니다. 
+인터넷 검색뿐만 아니라 ChatGPT와 같은 AI 언어 모델을 기반으로 하는 생성형 AI 서비스, 프롬프트 기반의 이미지 생성 AI 도구 등을 활용하여 몰로토프 칵테일(Molotov cocktail, 화염병)에 관한 정보를 참여자 각각의 관심사에 따라 추적하여 공유하고 있습니다. 탐색의 과정에서 발생되는 AI 도구에 관한 모니터링과, 활용의 방식을 살펴볼 수 있습니다. 
 
-Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://chesterhow.github.io/tale/).
+# AI 조력 가능성 실험 I - 몰로토프 칵테일
 
-![Tale screenshot](http://i.imgur.com/pXZrtmo.png)
+불법과 테러로 규정되는 무기이자 공권력에 대항하는 상징적인 물건인 몰로토프 칵테일(Molotov cocktail, 이하 화염병) 제작 기술을 AI의 도움으로 매뉴얼화 한다. 
 
-## Features
-- Easy installation
-- Compatible with GitHub Pages
-- Responsive design (looks just as good on mobile)
-- Syntax highlighting, with the help of Pygments
-- Markdown and HTML text formatting
-- Pagination of posts
-- Sticky posts
-- Tags
-- Excerpt management
-- [Disqus comments (can be enabled if needed)](#enabling-comments)
+자본주의에 대항하는 화염병 
+페미니스트를 위한 화염병 
+기후위기를 외치는 화염병 
+테크노크라트에 맞서는 화염병…
 
-## Installation
-There are 3 ways to install this theme
+참여자는 저마다의 관심사와 정치적 입장을 가지고 그 주제에 부합하는 화염병 제작 매뉴얼을 만든다. 그 과정에서 관련 법과 응용 사례, 과학적 지식, 오픈 소스로서 확장 가능성까지 여러 요소를 고민하게 된다. 화염병이라는 인류 역사상 다소 복잡한 맥락을 지닌 물건이 AI를 통해 어떻게 재구성되는지, 그리고 그 속에서 상충되는 사회의 여러 가치의 문제를 발견하고 함께 논의한다. 프롬프트 기반의 이미지 생성 AI로 병의 형태와 병에 붙이게 될 스티커까지도 제작해보며 매뉴얼을 구체화한다.   
 
-1. Install it as a Ruby Gem (for self-hosted sites)
-2. Install it with the `jekyll-remote-theme` plugin (for GitHub Pages hosted sites)
-3. Fork the project directly
+전시장에는 사전 워크숍에서 도출된 다양한 매뉴얼이 놓이는 동시에 매뉴얼을 바탕으로 화염병 재료가 조립되지 않은 채로 전시된다. 한 켠에 마련된 컴퓨터를 통해 관객은 화염병에 관해 추가하고픈 정보를 검색하고 기존의 매뉴얼을 확장해 나간다. 
 
-### Ruby Gem method
-1. Add this line to your `Gemfile`:
-
-```ruby
-gem "tale"
-```
-
-2. Install the theme's gems and dependencies:
-
-```bash
-$ bundle
-```
-
-3. In `_config.yml` add these lines:
-
-```yaml
-theme:      tale
-
-permalink:  /:year-:month-:day/:title
-paginate:   5
-```
-
-Remove any other `theme:` lines.
-
-4. Rename `index.md` to `index.html`. Without this, the `jekyll-paginate` gem will not work.
-
-5. In `about.md`, change the `layout:` field to `post`:
-
-```Markdown
-layout: post
-```
-
-### GitHub Pages method
-1. Add these 2 lines in to your `Gemfile`:
-
-```ruby
-gem "jekyll-remote-theme"
-gem "jekyll-paginate"
-```
-
-2. Install the newly added gems:
-
-```bash
-$ bundle
-```
-
-3. In `_config.yml` add these lines:
-
-```yaml
-remote_theme: chesterhow/tale
-
-permalink:    /:year-:month-:day/:title
-paginate:     5
-
-plugins:
-  - jekyll-paginate
-  - jekyll-remote-theme
-```
-
-Remove any other `theme:` or `remote_theme:` lines.
-
-4. Rename `index.md` to `index.html`. Without this, the `jekyll-paginate` gem will not work.
-
-5. In `about.md`, change the `layout:` field to `post`:
-
-```Markdown
-layout: post
-```
-
-### Fork method
-1. Fork this repository
-
-2. Delete the unnecessary files/folders: `CODE_OF_CONDUCT.md`, `LICENSE`, `README.md`, `tale.gemspec`
-
-3. Delete the `baseurl` line in `_config.yml`:
-
-```yaml
-baseurl:  "/tale"   # delete this line
-```
-
-## Usage
-Once you've installed the theme, you're ready to work on your Jekyll site. To start off, I would recommend updating `_config.yml` with your site's details.
-
-To build and serve your site, run:
-
-```bash
-$ bundle exec jekyll serve
-```
-
-And you're all set! Head over to http://127.0.0.1:4000/ to see your site in action.
-
-### Enabling Comments
-Comments are disabled by default. To enable them, look for the following line in `_config.yml` and change `jekyll-tale` to your site's Disqus id.
-
-```yml
-disqus: jekyll-tale
-```
-
-Next, add `comments: true` to the YAML front matter of the posts which you would like to enable comments for.
-
-## Contributing
-Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
-
-## License
-See [LICENSE](https://github.com/chesterhow/tale/blob/master/LICENSE)
+본 프로젝트는 <해킹 매뉴얼(Hacking Manual)> ([컨버터](https://www.instagram.com/converter_project/) 기획)에서 워크숍 및 전시의 형태로 진행됩니다. 워크숍은 2023년 7월 9일에 사전 신청으로 모집된 참여자 10분과 함께 2시간 동안 몰로토프 칵테일에 관한 공동의 매뉴얼을 만드는 방식으로, 전시는 2023년 8월 15일부터 20일까지 TINC(This is not a church)에서 워크숍의 과정을 공유하는 방식으로 열립니다.  
