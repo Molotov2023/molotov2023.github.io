@@ -24,8 +24,7 @@ The Molotov cocktail is a crude incendiary weapon consisting of a glass bottle f
 
 It's important to note that the use of the Molotov cocktail in literature may vary in its portrayal and context. While it can serve as a symbol of resistance or rebellion against oppressive forces, it is also associated with violence and destruction.
 
-### 번역 결과 
-
+`번역 결과`
 **화염병은 휘발유나 알코올과 같은 인화성 액체로 채워진 유리병과 같은 액체에 적신 천 심지로 구성된 조잡한 방화 무기입니다. 일반적으로 불이 붙은 다음 목표물에 던져 발화하여 손상을 입힙니다. 화염병은 소설, 단편 소설, 시 등 다양한 형태의 문학 작품에 등장합니다. 다음은 몇 가지 예입니다.**
 
 1. Joseph Heller의 "Catch-22": 제2차 세계 대전을 배경으로 한 이 풍자 소설에는 군인들이 적의 공격에 대한 방어 수단으로 화염병을 만드는 장면이 포함되어 있습니다. 이 책은 전쟁의 부조리와 무익함을 유머러스하게 묘사한다.
