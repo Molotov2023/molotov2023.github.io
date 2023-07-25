@@ -26,13 +26,13 @@ permalink: /about/
 본 프로젝트는 <해킹 매뉴얼(Hacking Manual)> ([컨버터](https://www.instagram.com/converter_project/) 기획)에서 워크숍 및 전시의 형태로 진행됩니다. 워크숍은 2023년 7월 9일에 사전 신청으로 모집된 참여자 10분과 함께 2시간 동안 몰로토프 칵테일에 관한 공동의 매뉴얼을 만드는 방식으로, 전시인 <해킹 스페이스(Hacking Space)>는 2023년 8월 15일부터 20일까지 TINC(This is not a church)에서 워크숍의 과정을 공유하는 방식으로 열립니다.  
 
 <br>
-<br>
 ## 워크숍 참여자 
 최민경, 강혜원, 안소희, 구래연, 조은하, 장윤영, 박세나, 최산현, 염지희, 김유라
 <br>
 <br>
 ## 공동의 매뉴얼 기고자
-염지희(Jihee Yeom), 전유진(Youjin Jeon), 홍민기(Minki Hong)
+
+[염지희(Jihee Yeom)](https://www.instagram.com/yeom_jihee/), [전유진(Youjin Jeon)](https://www.instagram.com/womanopentechlab/), [홍민기(Minki Hong)](https://www.instagram.com/team_seoul_express/)
 <br>
 <br>
 ## 문의 
