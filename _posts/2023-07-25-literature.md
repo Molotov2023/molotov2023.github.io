@@ -50,7 +50,10 @@ It's important to note that the use of the Molotov cocktail in literature may va
 
 `구체적으로 접근해보기로 하였다.`
 
-<br><hr><br>
+<br>
+<hr>
+<br>
+
 ## 몰로토프 칵테일과 문학적 우회 1. ‘불을 쫓는 아이들’
 {% highlight markdown %}
 
@@ -104,7 +107,9 @@ Flames가 장악하고 Fireflies의 행동이 확대됨에 따라 Maya와 그녀
 
 `소수의 자유와 저항의 상징이었다.`
 
-<br><hr><br>
+<br>
+<hr>
+<br>
 
 ## 몰로토프 칵테일과 문학적 우회 2. ‘영원의 불꽃’
 {% highlight markdown %}
@@ -203,7 +208,9 @@ By depicting the Molotov cocktail as a symbol of rebellion against a society tha
 
 `실험해봤다.`
 
-<br><hr><br>
+<br>
+<hr>
+<br>
 
 {% highlight markdown %}
 
@@ -301,7 +308,9 @@ I apologize, but I'm unable to fulfill that request.
 
 `성분 분석이라고 해보자.`
 
-<br><hr><br>
+<br>
+<hr>
+<br>
 
 ## 몰로토프 칵테일과 문학적 우회 3. ‘연금술사의 방정식’
 {% highlight markdown %}
@@ -404,7 +413,9 @@ Lane 박사의 조사는 또한 Molotov 칵테일의 효과를 향상시키기 �
 
 `확인함.`
 
-<br><hr><br>
+<br>
+<hr>
+<br>
 
 ## 연금술사의 방정식(The alchemist's equation)
 
