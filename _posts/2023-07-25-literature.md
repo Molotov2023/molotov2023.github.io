@@ -6,11 +6,11 @@ tags: manual
 ---
 
 
-# 문학에서의 몰로토프 칵테일 (Literature featuring the Molotov cocktail)
+## 문학에서의 몰로토프 칵테일 (Literature featuring the Molotov cocktail)
 {% highlight markdown %}
 
-문학에서의 몰로토프 칵테일을 설명해줘. 
-Explain Molotov cocktails in literature. 
+몰로토프 칵테일이 등장하는 문학을 알려줘. 
+Tell me the literature featuring the Molotov cocktail.
 
 {% endhighlight %}
 `ChatGPT`
@@ -35,8 +35,8 @@ It's important to note that the use of the Molotov cocktail in literature may va
 5. Alaa Al Aswany의 "The Yacoubian Building" 이집트 카이로를 배경으로 한 이 소설은 썩어가는 아파트 거주자들의 삶을 탐구합니다. Molotov 칵테일은 정치 봉기 중에 시위대가 사용하여 도시의 사회적, 정치적 긴장을 강조합니다.
 
 문학에서 화염병의 사용은 그 묘사와 맥락에 따라 다를 수 있다는 점에 유의하는 것이 중요합니다. 억압적인 세력에 대한 저항이나 반란의 상징이 될 수 있지만 폭력과 파괴와도 관련이 있습니다.
-<br>
-<hr>
+<br><br>
+
 
 `문학에서의 몰로토프 칵테일을 질문하자,`
 
@@ -52,7 +52,7 @@ It's important to note that the use of the Molotov cocktail in literature may va
 
 `구체적으로 접근해보기로 하였다.`
 
-
+<hr><br>
 ### 몰로토프 칵테일과 문학적 우회 1. ‘불을 쫓는 아이들’
 {% highlight markdown %}
 
