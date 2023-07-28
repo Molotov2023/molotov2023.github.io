@@ -2,7 +2,7 @@
 layout: post
 title: "Background Media"
 author: "Minki Hong"
-tags: background 
+tags: media, context 
 
 ---
 
