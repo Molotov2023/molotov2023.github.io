@@ -32,7 +32,7 @@ permalink: /about/
 <br>
 ## 공동의 매뉴얼 기고자
 
-[염지희(Jihee Yeom)](https://www.instagram.com/yeom_jihee/), [전유진(Youjin Jeon)](https://www.instagram.com/womanopentechlab/), [홍민기(Minki Hong)](https://www.instagram.com/team_seoul_express/)
+[전유진(Youjin Jeon)](https://www.instagram.com/womanopentechlab/), [홍민기(Minki Hong)](https://www.instagram.com/team_seoul_express/), [염지희(Jihee Yeom)](https://www.instagram.com/yeom_jihee/), [장윤영(Yunyong Jang)](http://yunyoung.kr/), 김유라(Yoora Kim)
 <br>
 <br>
 ## 문의 
