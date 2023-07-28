@@ -33,7 +33,6 @@ permalink: /about/
 ## 공동의 매뉴얼 기고자
 
 [염지희(Jihee Yeom)](https://www.instagram.com/yeom_jihee/)
-
 [장윤영(Yunyong Jang)](http://yunyoung.kr/)
 
 김유라(Yoora Kim)
