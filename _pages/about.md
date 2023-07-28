@@ -40,9 +40,9 @@ permalink: /about/
 
 [최민경(Minkyung Choi)](https://minkyungchoi.com/)
 
-[전유진(Youjin Jeon)](https://www.instagram.com/womanopentechlab/)
+[전유진(Youjin Jeon)](https://womanopentechlab.kr)
 
-[홍민기(Minki Hong)](https://www.instagram.com/team_seoul_express/)
+[홍민기(Minki Hong)](http://seoulexpress.kr)
 <br>
 <br>
 ## 문의 
