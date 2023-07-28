@@ -63,7 +63,7 @@ hidden: true
 ![예시 이미지](https://molotov2023.github.io/images/ex.png "This image was generated with the assistance of Midjourney.")
 _TThis image was generated with the assistance of Midjourney._
 
-사용된 prompt:
+`prompt`
 a molotov cocktail as a bottle, retrostyle, doodle, people gathering as a circle in the background
 <br>
 <br>
