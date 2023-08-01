@@ -40,7 +40,7 @@ permalink: /about/
 
 [최민경(Minkyung Choi)](https://minkyungchoi.com/)
 
-안소희(Sohee Ahn)
+[안소희(Sohee AHN)](https://instagram.com/a_noth?igshid=OGQ5ZDc2ODk2ZA==)
 
 박세나(Sena Park)
 
