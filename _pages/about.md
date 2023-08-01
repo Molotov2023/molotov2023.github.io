@@ -40,6 +40,12 @@ permalink: /about/
 
 [최민경(Minkyung Choi)](https://minkyungchoi.com/)
 
+안소희(Sohee Ahn)
+
+박세나(Sena Park)
+
+강혜원(Hyewon Kang)
+
 [전유진(Youjin Jeon)](https://womanopentechlab.kr)
 
 [홍민기(Minki Hong)](http://seoulexpress.kr)
