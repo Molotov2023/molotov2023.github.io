@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About"
-author: "Seou Express"
+author: "Seoul Express"
 permalink: /about/
 ---
 
