@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Background Media"
+title: "Reference Media"
 author: "Minki Hong"
 tags: media context 
 
