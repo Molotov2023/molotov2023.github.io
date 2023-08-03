@@ -2,7 +2,7 @@
 layout: post
 title: "공동의 매뉴얼 구축하기"
 author: "Seoul Express"
-tags: manual, context
+tags: manual context
 
 ---
 
