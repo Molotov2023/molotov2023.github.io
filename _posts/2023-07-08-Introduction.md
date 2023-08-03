@@ -2,9 +2,8 @@
 layout: post
 title: "공동의 매뉴얼 구축하기"
 author: "Seoul Express"
-tags: manual
-sticky: true
-hidden: true
+tags: manual, context
+
 ---
 
 ## 시작하기  
