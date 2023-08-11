@@ -48,6 +48,8 @@ permalink: /about/
 
 이진선(Jinsun Lee)
 
+원소영(Soyoung Won)
+
 [전유진(Youjin Jeon)](https://womanopentechlab.kr)
 
 [홍민기(Minki Hong)](http://seoulexpress.kr)
