@@ -48,7 +48,7 @@ permalink: /about/
 
 이진선(Jinsun Lee)
 
-원소영(Soyoung Won)
+[원소영(Soyoung Won)](https://www.instagram.com/w_soooooo/)
 
 [전유진(Youjin Jeon)](https://womanopentechlab.kr)
 
